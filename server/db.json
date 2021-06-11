@@ -1,8 +1,7 @@
 {
   "movies": [
     {
-      "id": 1,
-      "title": "The Shawshank Redemption",
+      "title": "The Shawshank12 21312321321312312",
       "posterUrl": "https://images-na.ssl-images-amazon.com/images/I/519NBNHX5BL.jpg",
       "likes": 30,
       "stars": 4,
@@ -16,7 +15,8 @@
         2
       ],
       "director": "Frank Darabont",
-      "description": "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red."
+      "description": "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.",
+      "id": 1
     },
     {
       "id": 2,
@@ -35,97 +35,6 @@
       "director": "Francis Ford Coppola",
       "description": "When the aging head of a famous crime family decides to transfer his position to one of his subalterns, a series of unfortunate events start happening to the family, and a war begins between all the well-known families leading to insolence, deportation, murder and revenge, and ends with the favorable successor being finally chosen",
       "stars": 5
-    },
-    {
-      "id": 3,
-      "title": "The Godfather: Part II",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/I/71NNsqy85sL._UR150,200_FMJPG_.jpg",
-      "stars": 5,
-      "likes": 21,
-      "genres": [
-        "Drama",
-        "Action",
-        "Adventure"
-      ],
-      "actorsIds": [
-        4,
-        6,
-        7
-      ],
-      "director": "Francis Ford Coppola",
-      "description": "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red",
-      "img": "https://images-na.ssl-images-amazon.com/images/I/71NNsqy85sL._UR150,200_FMJPG_.jpg"
-    },
-    {
-      "id": 4,
-      "title": "The Dark Knight",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY500_CR0,0,337,500_AL_.jpg",
-      "likes": 18,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Action"
-      ],
-      "actorsIds": [
-        8,
-        9,
-        10
-      ],
-      "director": "Nolan",
-      "description": "Despite his tarnished reputation after the events of The Dark Knight, in which he took the rap for Dent's crimes, Batman feels compelled to intervene to assist the city and its police force which is struggling to cope with Bane's plans to destroy the city",
-      "stars": 4
-    },
-    {
-      "id": 5,
-      "title": "12 Angry Men",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BODQwOTc5MDM2N15BMl5BanBnXkFtZTcwODQxNTEzNA@@._V1_SY500_CR0,0,333,500_AL_.jpg",
-      "stars": 5,
-      "likes": 20,
-      "genres": [
-        "Drama"
-      ],
-      "actorsIds": [
-        11,
-        12,
-        13
-      ],
-      "director": "Sidney Lumet",
-      "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young man is guilty or innocent of murdering his father. What begins as an open-and-shut case of murder soon becomes a detective story that presents a succession of clues creating doubt, and a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other. Based on the play, all of the action takes place on the stage of the jury room"
-    },
-    {
-      "id": 6,
-      "title": "Schindler's List",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,333,500_AL_.jpg",
-      "stars": 4,
-      "likes": 16,
-      "genres": [
-        "Drama"
-      ],
-      "actorsIds": [
-        14,
-        15,
-        16
-      ],
-      "director": "Steven Allan Spielberg",
-      "description": "Oskar Schindler is a vainglorious and greedy German businessman who becomes an unlikely humanitarian amid the barbaric German Nazi reign when he feels compelled to turn his factory into a refuge for Jews. Based on the true story of Oskar Schindler who managed to save about 1100 Jews from being gassed at the Auschwitz concentration camp, it is a testament to the good in all of us"
-    },
-    {
-      "id": 7,
-      "title": "Pulp Fiction",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_SY500_CR0,0,336,500_AL_.jpg",
-      "stars": 4,
-      "likes": 16,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "actorsIds": [
-        17,
-        18,
-        19
-      ],
-      "director": "Quentin Tarantino",
-      "description": "Jules Winnfield (Samuel L. Jackson) and Vincent Vega (John Travolta) are two hit men who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace (Ving Rhames). Wallace has also asked Vincent to take his wife Mia (Uma Thurman) out a few days later when Wallace himself will be out of town. Butch Coolidge (Bruce Willis) is an aging boxer who is paid by Wallace to lose his weight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents."
     },
     {
       "id": 8,
@@ -251,6 +160,48 @@
       ],
       "director": "Nolan",
       "description": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible - inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming."
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/I/519NBNHX5BL.jpg",
+      "likes": 30,
+      "stars": 4,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "actorsIds": [
+        0,
+        1,
+        2
+      ],
+      "director": "Frank Darabont",
+      "description": "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.",
+      "id": 15
+    },
+    {
+      "title": "The Shawshank 21312321321312312",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/I/519NBNHX5BL.jpg",
+      "likes": 30,
+      "stars": 4,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "actorsIds": [
+        0,
+        1,
+        2
+      ],
+      "director": "Frank Darabont",
+      "description": "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.",
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
     }
   ],
   "actors": [

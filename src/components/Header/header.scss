@@ -1,0 +1,14 @@
+.movies{
+    background-color: lightgreen;
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &__title{
+        font-style: italic;
+        width: fit-content;
+    }
+}

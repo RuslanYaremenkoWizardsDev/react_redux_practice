@@ -1,0 +1,21 @@
+.movies-wrapper{
+    position: fixed;
+    top: 70px;
+    background-color: lemonchiffon;
+    width: 100%;
+    padding: 15px;
+    overflow: hidden auto;
+    min-height: calc(100% - 70px);
+}
+.list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    width: 200px;
+    height: 300px;
+    overflow: hidden;
+    img{
+        height: 200px;
+    }
+}
